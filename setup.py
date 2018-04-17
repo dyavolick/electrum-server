@@ -25,6 +25,6 @@ setup(
     author="Thomas Voegtlin",
     author_email="thomasv@electrum.org",
     license="MIT Licence",
-    url="https://github.com/spesmilo/electrum-server/",
+    url="https://github.com/dyavolick/electrum-server/",
     long_description="""Server for the Electrum Lightweight Bitcoin Wallet"""
 )
